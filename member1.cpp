@@ -1,9 +1,3 @@
-#include <QWidget>
-#include <QVBoxLayout>
-#include <QPushButton>
-#include <QColorDialog>
-#include <QLabel>
-
 
 // 組員1頁面（更改文字顏色）
 QWidget member1Page;
